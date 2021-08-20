@@ -87,13 +87,13 @@ img {
     justify-content: space-between;
 }
 
-.navbar-logo {
+.navbar-logo img {
     width: 24px;
     height: 24px;
 }
 
 @media (min-width: 1024px) {
-    .navbar-logo {
+    .navbar-logo img {
         width: 32px;
         height: 32px;
     }
@@ -261,18 +261,18 @@ img {
     }
 }
 
-.hero-img {
+.hero-img img {
     width: 300px;
 }
 
 @media (min-width: 768px) {
-    .hero-img {
+    .hero-img img {
         width: 340px;
     }
 }
 
 @media (min-width: 1024px) {
-    .hero-img {
+    .hero-img img {
         width: 570px;
     }
 }
